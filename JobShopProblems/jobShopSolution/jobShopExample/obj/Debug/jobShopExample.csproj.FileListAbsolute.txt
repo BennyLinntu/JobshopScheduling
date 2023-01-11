@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe.config
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.pdb
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.MainForm.resources
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.Properties.Resources.resources
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.exe
+C:\Users\user\Desktop\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe.config
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.MainForm.resources
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.Properties.Resources.resources
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.GenerateResource.cache
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Project\GA for JobShop\code\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe.config
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.MainForm.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.Properties.Resources.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.GenerateResource.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe.config
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\bin\Debug\jobShopExample.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.MainForm.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.Properties.Resources.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.GenerateResource.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week 12 final\R10546039YDLinGeneticAlgorithm\jobShopSolution\jobShopExample\obj\Debug\jobShopExample.pdb
